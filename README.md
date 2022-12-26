@@ -5,7 +5,7 @@ Ujian Akhir Semester Praktikum Dasar Pemrograman Lab 3
 
 Nama	: Christover Daniel Sinaga
 NIM	: 221401024
-Kom	: B
+KOM	: B
 Lab		: Dasar Pemrograman 3  
 Asisten Lab : Andrew Benedictus Jamesie  
 Tahun Ajaran : Ganjil 2022/2023  
